@@ -1,2 +1,5 @@
 Git Version Control Practical
 This project demonstrates basic Git operations.
+
+Git supports version control.
+It helps developers track changes in files.
